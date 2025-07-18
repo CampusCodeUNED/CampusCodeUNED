@@ -4,17 +4,18 @@
 Cada curso dispone de un directorio propio donde se organizan los trabajos por tema o número de entrega, siguiendo una estructura clara y ordenada:
 CampusCodeUNED/
 ├── Curso_Nombre1/
-│   ├── Trabajo_01/
-│   │   ├── Enunciado.pdf
-│   │   ├── Solucion.pdf
-│   │   └── README.md
-│   └── Trabajo_02/
-│       ├── Enunciado.pdf
-│       ├── Solucion.pdf
-│       └── README.md
+│ ├── Trabajo_01/
+│ │ ├── Enunciado.pdf
+│ │ ├── Solucion.pdf
+│ │ └── README.md
+│ └── Trabajo_02/
+│ ├── Enunciado.pdf
+│ ├── Solucion.pdf
+│ └── README.md
 ├── Curso_Nombre2/
-│   └── ...
+│ └── ...
 └── Curso_NombreN/
+---
 ## 🧾 Contenido de cada trabajo
 - 📄 **Enunciado.pdf**: documento original con el enunciado asignado.  
 - ✅ **Solucion.pdf** o carpeta `Solucion/`: resolución elaborada por el estudiante.  
