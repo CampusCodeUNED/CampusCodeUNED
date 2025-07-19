@@ -75,7 +75,7 @@ Ejemplo:
 
 ## ✍️ Autor
 
-Repositorio mantenido por **Gerges Canto** – estudiante UNED  
-🔗 [github.com/gerges-canto](https://github.com/gerges-canto)
+Repositorio mantenido por **Antonio** – estudiante UNED  
+
 
 
